@@ -10,7 +10,7 @@ public class HelloWorld
 	
 		System.out.println("Hello, World");
 		int x = 5;
-    --x;
+    --x
     System.out.println(x);
 	}
 }
